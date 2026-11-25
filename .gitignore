@@ -1,0 +1,6 @@
+# Large archives exceeding GitHub's 100 MB file size limit
+Travigo.zip
+assets/css.zip
+
+# macOS metadata
+.DS_Store
